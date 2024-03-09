@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "c3b4",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-07T09:23:59.369Z",
+      "notes": "Capital of My country. Very Beautiful 🌟",
+      "position": {
+        "lat": "28.57265730000353",
+        "lng": "77.21181353798227"
+      }
+    },
+    {
+      "id": "2cc7",
+      "cityName": "Ayodhya",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-07T09:34:57.010Z",
+      "notes": "Best Place in the Word!!",
+      "position": {
+        "lat": "26.79906723411479",
+        "lng": "82.20426239707868"
+      }
+    },
+    {
+      "id": "168d",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-07T09:36:42.496Z",
+      "notes": "I want to be here for honeymoon ",
+      "position": {
+        "lat": "48.84656810591561",
+        "lng": "2.3514179416067376"
+      }
+    },
+    {
+      "id": "cd34",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-07T11:00:50.094Z",
+      "notes": "Richest city in India",
+      "position": {
+        "lat": "19.074210811000455",
+        "lng": "72.87437517937677"
+      }
+    }
+  ]
+}
